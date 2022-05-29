@@ -20,6 +20,10 @@ feature space [ used in 2D model ]
 6. Plot the confusion matrices and find the most confusing classes.
 
 </br></br>
+Highest  accuracy:
+1) In 1D Model = 43.9%
+2) In 2D Model = 41.87%
+</br></br>
 
 This was assignment 3 in Pattern Recognition course</br></br>
 
