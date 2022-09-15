@@ -3,7 +3,7 @@ link of google colab:</br>
 https://colab.research.google.com/drive/19XXlyYDRRECeBiByz7vDef9v6bQsuQQI?usp=sharing
 </br></br>
 link of dataset used:</br>
-https://drive.google.com/drive/folders/1Y_2lnWS9exai7i5HiiHGssvNzNCuLskC?usp=sharing
+https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en
 </br></br>
 Problem Statement:</br>
 We intend to perform image segmentation. Image segmentation means that we can group
